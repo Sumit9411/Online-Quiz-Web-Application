@@ -1,6 +1,3 @@
-Here is a complete, professional `README.md` file for your repository. You can copy the code below and save it as `README.md` in your project folder.
-
-```markdown
 # Online Quiz Web Application
 
 A lightweight, interactive Quiz Platform built with HTML, CSS (Bootstrap 5), and jQuery. This application tests users with multiple-choice questions, featuring a countdown timer, real-time scoring, and instant answer feedback.
